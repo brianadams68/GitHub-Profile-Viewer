@@ -1,9 +1,9 @@
 import React, { useEffect, useState } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
-import Events from "../components/Events";
-import Loading from "../components/Loading";
-import Repo from "../components/Repo";
-import Tabs from "../components/Tabs";
+import Events from "../Components/Events";
+import Loading from "../Components/Loading";
+import Repo from "../Components/Repo";
+import Tabs from "../Components/Tabs";
 import UsersContainer from "../Components/UserContainer";
 
 const UserInfo = () => {

@@ -1,5 +1,5 @@
 import React, { useEffect, useState, useRef } from "react";
-import Loading from "../components/Loading";
+import Loading from "../Components/Loading";
 import UsersContainer from "../Components/UserContainer";
 
 const Users = () => {
